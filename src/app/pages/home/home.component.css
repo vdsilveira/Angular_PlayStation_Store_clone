@@ -1,0 +1,31 @@
+
+.home__cards1{
+    width: 78%;
+    margin: auto;
+    padding-top: 150px;
+    padding-bottom: 10px;
+
+    
+    display: flex;
+
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+    
+}
+
+
+.home__cards2{
+    width: 75%;
+    margin: auto;
+    padding-top: 15px;
+    padding-bottom: 200px;
+
+    
+    display: flex;
+
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+    
+}

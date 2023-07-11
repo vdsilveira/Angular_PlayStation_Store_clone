@@ -1,0 +1,40 @@
+.card-princing__container{
+position: absolute;
+bottom: 0px;
+left: 0px;
+
+padding: 3px;
+width: 100%;
+height: 40px;
+background-color: rgba(0, 0, 0, 0.336);
+color: antiquewhite;
+font-family: calibri;
+
+display: flex;
+flex-direction: column;
+
+}
+
+.card-princing__title{
+margin-bottom: 1px;
+font-size: small;
+
+
+}
+
+.card-princing__value{
+display: flex;
+justify-content: space-between;
+font-size: small;
+}
+
+.card-princing__value__console{
+    display: flex;
+    font-size: small;
+}
+
+.card-princing__value__console > span{
+    font-weight: bolder;
+    color: rgb(20, 211, 20);
+    margin-right: 5px;
+}
